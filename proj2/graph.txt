@@ -1,0 +1,9 @@
+6
+Ames Minneapolis
+Ames DSM
+Minneapolis NYC
+DSM Detroit
+DSM Houston
+Detroit Dallas
+NYC Ames
+Houston Ames
